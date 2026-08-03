@@ -16,7 +16,7 @@ identity, course eligibility and a simulated physical gate. Its workflow covers
 course-form enrollment, multi-angle face capture, local access decisions and
 Proteus-based hardware simulation.
 
-`Python` · `OpenCV` · `face_recognition` · `SQLite` · `Proteus`
+`Python` · `OpenCV SFace` · `SQLite` · `Proteus`
 
 ### [SkyETA](https://github.com/Elijahpeters/SkyETA)
 
