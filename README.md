@@ -1,15 +1,20 @@
-# Peters Elijah Temidayo
+# Elijah Peters (Peters Elijah Temidayo)
 
-### Software & Electrical/Electronics Engineer
+**Electrical & Electronics Engineer | Circuit Design · Embedded Systems · Applied AI/ML**
 
-I build reliable software where data, AI and physical systems meet. My work
-spans Python, TypeScript and C++, with an emphasis on reproducible workflows,
-clear engineering trade-offs, defensive validation and tests that another
+I'm Elijah Peters, formally Peters Elijah Temidayo, an Electrical & Electronics
+Engineer working where electronics, software and machine learning meet. I design
+and simulate circuits, develop embedded and computer-vision systems, and build
+predictive software.
+
+My work spans Python, TypeScript and C++, with an emphasis on reproducible
+workflows, clear engineering trade-offs, defensive validation and tests another
 engineer can run.
 
+[Portfolio](https://peterselijah.name.ng) ·
 [LinkedIn](https://www.linkedin.com/in/elijahpeters01) ·
-[Email](mailto:peterselijah11@gmail.com) ·
-[Engineering portfolio](https://github.com/Elijahpeters/peters-elijah-portfolio)
+[GitHub projects](https://github.com/Elijahpeters?tab=repositories) ·
+[Email](mailto:peterselijah11@gmail.com)
 
 ## Featured engineering work
 
@@ -17,7 +22,7 @@ engineer can run.
 | --- | --- | --- |
 | **[AuraPass](https://github.com/Elijahpeters/AuraPass)** | An offline biometric examination-access prototype connecting PDF enrollment, face matching, policy decisions, local records and a simulated gate. | Python, OpenCV, SQLite, Arduino/Proteus; architecture documentation plus synthetic unit and integration tests. |
 | **[SkyETA](https://github.com/Elijahpeters/SkyETA)** | A browser-based flight-delay risk instrument with a reproducible LightGBM pipeline, local inference and a defensive optional live-data API. | TypeScript, Next.js, Python, LightGBM; browser/Python parity tests, API validation and explicit failure states. |
-| **[Engineering portfolio](https://github.com/Elijahpeters/peters-elijah-portfolio)** | Selected software, embedded-system and circuit work presented in one responsive interface. | React, TypeScript, Python, circuit simulation; documented local build and verification commands. |
+| **[Engineering portfolio](https://peterselijah.name.ng)** | Selected software, embedded-system and circuit work presented in one responsive interface. | React, TypeScript, Python, circuit simulation; [source code and verification commands](https://github.com/Elijahpeters/peters-elijah-portfolio). |
 
 ## How I work
 
@@ -37,10 +42,11 @@ engineer can run.
 
 ## Current focus
 
-Reliable AI/ML systems, algorithms, evaluation workflows, computer vision and
-software that remains understandable under review.
+Circuit and PCB design, embedded automation, applied AI/ML, computer vision,
+AI model evaluation and hardware/software integration.
 
-I am open to remote software engineering and applied AI opportunities.
+I'm open to opportunities in electronics design, embedded systems, intelligent
+automation, engineering AI evaluation and applied machine learning.
 
 ## Background
 
